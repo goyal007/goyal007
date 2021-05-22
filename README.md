@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently working on **Data Science and Analytics**
-
-- 👯 I’m looking to collaborate on **Data Science**
+- 🔭 I’m currently working on **Data Anaytics and Data Science Related Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/goyal007](https://github.com/goyal007)
 
