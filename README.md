@@ -16,4 +16,7 @@
 <a href="https://twitter.com/iamashish777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Iamashish777" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashish-goyal-779282152" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashish-goyal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ashu__goyal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashu__goyal" height="30" width="40" /></a>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{goyal007}/count.svg)
+  
 </p>
